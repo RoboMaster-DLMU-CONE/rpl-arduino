@@ -30,8 +30,7 @@
   "build": {
     "flags": [
       "-std=gnu++20",
-      "-Wno-register",
-      "-Isrc/3rdparty"
+      "-Wno-register"
     ],
     "unflags": [
       "-std=gnu++11",
